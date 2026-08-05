@@ -1,5 +1,13 @@
 # 📜 Certifications
 
+# 📜 Certifications
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking_Academy-blue)
+
+![IIT_BHU](https://img.shields.io/badge/IIT_BHU-Short_Course-orange)
+
+![ELC](https://img.shields.io/badge/ELC-Summer_Internship-green)
+
 This repository contains my verified technical certifications, internship completion certificates, and professional learning achievements.
 
 | Certification | Organization | Year |
