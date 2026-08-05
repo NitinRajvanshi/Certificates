@@ -18,4 +18,4 @@ I-DAPT Hub Foundation, IIT (BHU)
 
 ### Certificate
 
-📄 Introduction_to_Quantum_Communication_and_Machine_Learning.pdf
+📄 Introduction_to_Quantum_Communication_and_Machine_Learning.jpeg
