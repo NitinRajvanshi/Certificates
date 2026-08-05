@@ -1,7 +1,5 @@
 # 📜 Certifications
 
-# 📜 Certifications
-
 ![Cisco](https://img.shields.io/badge/Cisco-Networking_Academy-blue)
 
 ![IIT_BHU](https://img.shields.io/badge/IIT_BHU-Short_Course-orange)
