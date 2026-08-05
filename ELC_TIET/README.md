@@ -20,4 +20,4 @@
 
 ### Certificate
 
-📄 ELC_Summer_Internship_Certificate.pdf
+📄 ELC_Summer_Internship_Certificate.jpeg
